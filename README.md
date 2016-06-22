@@ -4,8 +4,8 @@ Resolve Jogo dos Oito com IA
 
 Trabalho acadêmico (Java) que resolve o jogo dos 8 através de IA.
 
-
- JOGO DO OITO
+```
+ JOGO DOS OITO
   8888888
  8       8
  8       8
@@ -13,7 +13,7 @@ Trabalho acadêmico (Java) que resolve o jogo dos 8 através de IA.
  8       8
  8       8
   8888888
-
+```
 
 ### Requisitos
 
@@ -30,7 +30,7 @@ Permitir definir qualquer estado inicial. \
 Exibir quais opções disponíveis(sucessor), e qual foi escolhida. \
 Cada nodo da arvore representa um estado: 3x3 \
 Criar ponto de corte. \
-Criar opção para definir limite de profundidade. \
+Criar opção para definir limite de profundidade. 
 
 Created on 19 de Março de 2007, 20:01
 
