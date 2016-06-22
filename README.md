@@ -15,6 +15,9 @@ Trabalho acadêmico (Java) que resolve o jogo dos 8 através de IA.
   8888888
 ```
 
+![Screenshot](https://raw.githubusercontent.com/GustavoHennig/ResolveJogo8/master/screenshot_jogodos8.jpg "Jogo dos 8")
+
+
 ### Requisitos
 
 Todas os possíveis movimentos devem ser exibidos.  
