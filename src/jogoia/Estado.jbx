@@ -1,0 +1,14 @@
+[PropertyInfo]
+EstadoAnterior,jogoia.Estado,false,false, , ,false,<default>
+estadosFilhos,java.util.ArrayList,false,false, , ,true,<default>
+Id,int,false,false, , ,false,<default>
+IdCount,int,false,false, , ,false,<default>
+Nivel,int,false,false, , ,false,<default>
+posEspaco,jogoia.PosPeca,false,false, , ,true,<default>
+tabuleiro,jogoia.Peca[][],false,false, , ,false,<default>
+tabuleiroCopy,jogoia.Peca[][],false,false, , ,true,<default>
+[IconNames]
+
+
+
+
